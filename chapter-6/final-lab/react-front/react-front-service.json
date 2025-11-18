@@ -34,8 +34,8 @@
     "requiresCompatibilities": [ 
        "FARGATE" 
     ],
-    "taskRoleArn": "arn:aws:iam::780340675241:role/ecs-task-rule",
-    "executionRoleArn": "arn:aws:iam::780340675241:role/ecs-task-rule",
+    "taskRoleArn": "arn:aws:iam::312865684716:role/ecs-task-rule",
+    "executionRoleArn": "arn:aws:iam::312865684716:role/ecs-task-rule",
     "tags": [
       {
           "key": "env",
